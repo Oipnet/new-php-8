@@ -45,5 +45,5 @@
 13. Fatal error for incompatible method signatures
 14. Other deprecations and changes
 
-
+---
 sources : (https://stitcher.io/blog/new-in-php-8)

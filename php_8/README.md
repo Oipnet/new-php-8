@@ -6,7 +6,7 @@
 4. [Named arguments](./named_argument.md)
 5. [Attributes](./attributes.md)
 6. [Match expression](./match_expression.md)
-7. Constructor property promotion
+7. [Constructor property promotion](./constructor_property_promotion.md)
 8. New static return type
 9. New mixed type
 10. Throw expression

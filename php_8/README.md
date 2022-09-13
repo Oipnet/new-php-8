@@ -5,7 +5,7 @@
 3. [L'opérateur nullsafe](./nullsafe_operator.md)
 4. [Named arguments](./named_argument.md)
 5. [Attributes](./attributes.md)
-6. Match expression
+6. [Match expression](./match_expression.md)
 7. Constructor property promotion
 8. New static return type
 9. New mixed type

@@ -26,7 +26,7 @@
 24. [Object implementation of token_get_all()](./token_get_all.md)
 25. [Variable syntax tweaks](variable_syntax_tweaks.md)
 26. [Type annotations for internal functions](type_annotation_for_iternal_functions.md)
-27. ext-json always available
+27. [ext-json always available](ext_json_always_available.md)
 
 # Breaking changes
 

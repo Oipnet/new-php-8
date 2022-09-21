@@ -43,7 +43,6 @@
 11. Reflection changes
 12. [Stable sorting](./breaking_changes/stable_sorting.md)
 13. [Fatal error for incompatible method signatures](./breaking_changes/fatal_error_for_incompatible_signatures.md)
-14. Other deprecations and changes
 
 ---
 sources : (https://stitcher.io/blog/new-in-php-8)

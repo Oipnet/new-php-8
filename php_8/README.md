@@ -40,7 +40,7 @@
 8. [Namespaced names being a single token](./breaking_changes/namespaced_names_being_a_single_token.md)
 9. [Saner numeric strings](./breaking_changes/saner_numeric_strings.md)
 10. [Saner string to number comparisons](./breaking_changes/saner_string_to_number_comparisons.md)
-11. Reflection changes
+11. [Reflection changes](./breaking_changes/reflection_changes.md)
 12. [Stable sorting](./breaking_changes/stable_sorting.md)
 13. [Fatal error for incompatible method signatures](./breaking_changes/fatal_error_for_incompatible_signatures.md)
 

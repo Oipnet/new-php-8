@@ -11,7 +11,7 @@
 9. [New mixed type](./mixed_type.md)
 10. [Throw expression](./throw_expression.md)
 11. [Inheritance with private methods](./inheritance_with_private_methods.md)
-12. Weak maps
+12. [Weak maps](./weak_maps.md)
 13. Allowing ::class on objects
 14. Non-capturing catches
 15. Trailing comma in parameter lists

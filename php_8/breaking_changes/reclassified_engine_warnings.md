@@ -1,6 +1,6 @@
 # Reclassified engine warnings
 
-Un grand nombre de warnig ou notice ont été modifié
+Un grand nombre de warning ou notice ont été modifié
 
  - Undefined variable: warning instead of notice
  - Undefined array index: warning instead of notice

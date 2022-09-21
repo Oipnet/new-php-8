@@ -32,8 +32,8 @@
 
 1. [Consistent type errors](./breaking_changes/consistent_type_errors.md)
 2. [Reclassified engine warnings](./breaking_changes/reclassified_engine_warnings.md)
-3. The @ operator no longer silences fatal errors
-4. Default error reporting level
+3. [The @ operator no longer silences fatal errors](./breaking_changes/@_operator_no_longer_silences_fatal_errors.md)
+4. [Default error reporting level](./breaking_changes/default_error_reporting.md)
 5. Default PDO error mode
 6. Concatenation precedence
 7. Stricter type checks for arithmetic and bitwise operators

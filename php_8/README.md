@@ -42,7 +42,7 @@
 10. [Saner string to number comparisons](./breaking_changes/saner_string_to_number_comparisons.md)
 11. Reflection changes
 12. [Stable sorting](./breaking_changes/stable_sorting.md)
-13. Fatal error for incompatible method signatures
+13. [Fatal error for incompatible method signatures](./breaking_changes/fatal_error_for_incompatible_signatures.md)
 14. Other deprecations and changes
 
 ---

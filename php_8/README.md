@@ -13,7 +13,7 @@
 11. [Inheritance with private methods](./inheritance_with_private_methods.md)
 12. [Weak maps](./weak_maps.md)
 13. [Allowing ::class on objects](./allowing_class_on_objects.md)
-14. Non-capturing catches
+14. [Non-capturing catches](./non_capturing_catches.md)
 15. Trailing comma in parameter lists
 16. Create DateTime objects from interface
 17. New Stringable interface

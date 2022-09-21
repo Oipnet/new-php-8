@@ -8,7 +8,7 @@
 6. [Match expression](./match_expression.md)
 7. [Constructor property promotion](./constructor_property_promotion.md)
 8. [New static return type](./static_return_type.md)
-9. New mixed type
+9. [New mixed type](./mixed_type.md)
 10. Throw expression
 11. Inheritance with private methods
 12. Weak maps

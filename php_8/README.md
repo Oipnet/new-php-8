@@ -17,7 +17,7 @@
 15. [Trailing comma in parameter lists](./trailing_comma_in_parameter_lists.md)
 16. [Create DateTime objects from interface](./create_datetime_from_interface.md)
 17. [New Stringable interface](./stringable_interface.md)
-18. New str_contains() function
+18. [New str_contains() function](./str_contains_function.md)
 19. New str_starts_with() and str_ends_with() functions
 20. New fdiv() function
 21. New get_debug_type() function

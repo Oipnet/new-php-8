@@ -30,7 +30,7 @@
 
 # Breaking changes
 
-1. Consistent type errors
+1. [Consistent type errors](./breaking_changes/consistent_type_errors.md)
 2. Reclassified engine warnings
 3. The @ operator no longer silences fatal errors
 4. Default error reporting level

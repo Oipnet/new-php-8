@@ -35,7 +35,7 @@
 3. [The @ operator no longer silences fatal errors](./breaking_changes/@_operator_no_longer_silences_fatal_errors.md)
 4. [Default error reporting level](./breaking_changes/default_error_reporting.md)
 5. [Default PDO error mode](./breaking_changes/default_pdo_error_mode.md)
-6. Concatenation precedence
+6. [Concatenation precedence](./breaking_changes/concatenation_precedence.md)
 7. Stricter type checks for arithmetic and bitwise operators
 8. Namespaced names being a single token
 9. Saner numeric strings

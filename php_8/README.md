@@ -24,7 +24,7 @@
 22. [New get_resource_id() function](./get_resource_id_function.md)
 23. [Abstract methods in traits improvements](./abstract_methods_in_trait.md)
 24. [Object implementation of token_get_all()](./token_get_all.md)
-25. Variable syntax tweaks
+25. [Variable syntax tweaks](variable_syntax_tweaks.md)
 26. Type annotations for internal functions
 27. ext-json always available
 

@@ -7,7 +7,7 @@
 5. [Attributes](./attributes.md)
 6. [Match expression](./match_expression.md)
 7. [Constructor property promotion](./constructor_property_promotion.md)
-8. New static return type
+8. [New static return type](./static_return_type.md)
 9. New mixed type
 10. Throw expression
 11. Inheritance with private methods

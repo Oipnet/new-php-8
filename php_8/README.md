@@ -14,7 +14,7 @@
 12. [Weak maps](./weak_maps.md)
 13. [Allowing ::class on objects](./allowing_class_on_objects.md)
 14. [Non-capturing catches](./non_capturing_catches.md)
-15. Trailing comma in parameter lists
+15. [Trailing comma in parameter lists](./trailing_comma_in_parameter_lists.md)
 16. Create DateTime objects from interface
 17. New Stringable interface
 18. New str_contains() function

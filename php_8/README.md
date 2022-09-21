@@ -21,7 +21,7 @@
 19. [New str_starts_with() and str_ends_with() functions](./str_start_with_and_str_end_with_functions.md)
 20. [New fdiv() function](./fdiv_function.md)
 21. [New get_debug_type() function](./get_debug_type_function.md)
-22. New get_resource_id() function
+22. [New get_resource_id() function](./get_resour_id_function.md)
 23. Abstract methods in traits improvements
 24. Object implementation of token_get_all()
 25. Variable syntax tweaks

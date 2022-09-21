@@ -37,7 +37,7 @@
 5. [Default PDO error mode](./breaking_changes/default_pdo_error_mode.md)
 6. [Concatenation precedence](./breaking_changes/concatenation_precedence.md)
 7. [Stricter type checks for arithmetic and bitwise operators](./breaking_changes/stricter_type_checks_for_arithmetic_and_bitwise_operators.md)
-8. Namespaced names being a single token
+8. [Namespaced names being a single token](./breaking_changes/namespaced_names_being_a_single_token.md)
 9. Saner numeric strings
 10. Saner string to number comparisons
 11. Reflection changes

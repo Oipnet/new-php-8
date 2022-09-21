@@ -31,7 +31,7 @@
 # Breaking changes
 
 1. [Consistent type errors](./breaking_changes/consistent_type_errors.md)
-2. Reclassified engine warnings
+2. [Reclassified engine warnings](./breaking_changes/reclassified_engine_warnings.md)
 3. The @ operator no longer silences fatal errors
 4. Default error reporting level
 5. Default PDO error mode

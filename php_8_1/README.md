@@ -1,6 +1,6 @@
 # Nouveautés apporté par PHP 8.1
 
-1. Enums
+1. [Enums](./enum.md)
 2. Fibers
 3. Performance improvements
 4. Array unpacking with string keys

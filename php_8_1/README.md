@@ -4,8 +4,8 @@
 2. [Fibers](./fibers.md)
 3. [Performance improvements](./performance_improvement.md)
 4. [Array unpacking with string keys](./array_unpacking_with_string_keys.md)
-5. [new in initializers](new_in_initializers.md)
-6. Readonly properties
+5. [new in initializers](./new_in_initializers.md)
+6. [Readonly properties](./readonly_properties.md)
 7. First-class callable syntax
 8. Pure intersection types
 9. New never type

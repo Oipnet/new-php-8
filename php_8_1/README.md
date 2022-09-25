@@ -6,7 +6,7 @@
 4. [Array unpacking with string keys](./array_unpacking_with_string_keys.md)
 5. [new in initializers](./new_in_initializers.md)
 6. [Readonly properties](./readonly_properties.md)
-7. First-class callable syntax
+7. [First-class callable syntax](./first-class_callable_syntax.md)
 8. Pure intersection types
 9. New never type
 10. New array_is_list function

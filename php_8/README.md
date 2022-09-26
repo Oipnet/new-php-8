@@ -1,4 +1,4 @@
-# Nouveautés apporté par PHP 8
+# Nouveautés apportées par PHP 8
 
 1. [Union types](./union_types.md)
 2. [JIT (Compilation Just In Time)](./jit.md)
@@ -45,4 +45,4 @@
 13. [Fatal error for incompatible method signatures](./breaking_changes/fatal_error_for_incompatible_signatures.md)
 
 ---
-sources : (https://stitcher.io/blog/new-in-php-8)
+sources : [https://stitcher.io/blog/new-in-php-8](https://stitcher.io/blog/new-in-php-8)
